@@ -1,0 +1,21 @@
+{
+  "name": "lesson5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "colors": "^1.4.0",
+    "moment-timezone": "^0.5.33"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "inquirer": "^8.2.0"
+  }
+}
